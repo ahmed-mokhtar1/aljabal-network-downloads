@@ -1,2 +1,11 @@
-# aljabal-network-downloads
-Al Jabal Network Android app downloads
+# شبكة الجبل — تطبيق أندرويد
+
+[تحميل التطبيق مباشرة (APK)](https://github.com/ahmed-mokhtar1/aljabal-network-downloads/releases/latest/download/AlJabal_Network_1.0.35_Estraha_Coming_Soon.apk)
+
+الإصدار الحالي: **1.0.35**. قسم **استراحة** يظهر «قريبًا» في هذه النسخة. الخدمات المرتبطة بالشبكة تتطلب الاتصال بشبكة الجبل وخوادمها.
+
+افتح ملف APK المحمّل على هاتف أندرويد واتبع تعليمات التثبيت. قد يطلب الهاتف السماح بالتثبيت من المتصفح أو مدير الملفات.
+
+يمكن أيضًا زيارة [صفحة الإصدارات](https://github.com/ahmed-mokhtar1/aljabal-network-downloads/releases) للاطلاع على الإصدارات القادمة. احتفظ بهذا الرابط لتنزيل أحدث نسخة عند نشرها.
+
+SHA-256 للإصدار 1.0.35: `FA0EC442BC6B0932FAD5019E23110D2EC0C2330F54571F99D0946541CE7A0D8F`
